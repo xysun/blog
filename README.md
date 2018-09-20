@@ -1,3 +1,5 @@
+This is my 1239723847684765th attempt at starting a blog. Let's see how it goes this time. 
+
 # Labels
 
 - [machine learning](https://github.com/xysun/blog/labels/machine%20learning)
