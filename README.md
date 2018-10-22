@@ -4,7 +4,7 @@ This is my 1239723847684765th attempt at starting a blog. Let's see how it goes 
 
 - [machine learning](https://github.com/xysun/blog/labels/machine%20learning)
   - [reinforcement learning](https://github.com/xysun/blog/labels/reinforcement%20learning)
-- [scala](https://github.com/xysun/blog/labels/scala)
+- [scala and functional programming](https://github.com/xysun/blog/labels/scala)
 
 # Entries
 
