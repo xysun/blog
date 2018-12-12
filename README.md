@@ -9,7 +9,8 @@ This is my 1239723847684765th attempt at starting a blog. Let's see how it goes 
 
 # Entries
 
-- [2018-10-31 [updating] Paper reading Nov 2018](https://github.com/xysun/blog/issues/7)
+- [2018-11-12 [updating] Paper reading Dec 2018](https://github.com/xysun/blog/issues/8)
+- [2018-10-31 Paper reading Nov 2018](https://github.com/xysun/blog/issues/7)
 - [2018-10-22 [DRAFT] Thoughts on functional programming](https://github.com/xysun/blog/issues/6)
 - [2018-10-19 Summary notes on model free prediction and control](https://github.com/xysun/blog/issues/5)
 - [2018-10-14 Monte Carlo control with exploring starts](https://github.com/xysun/blog/issues/4)
