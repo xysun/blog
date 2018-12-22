@@ -7,7 +7,7 @@ This is my 1239723847684765th attempt at starting a blog. Let's see how it goes 
   - [My paper reading notes](https://github.com/xysun/blog/issues?q=is%3Aopen+is%3Aissue+label%3ARTFP)
 - [scala and functional programming](https://github.com/xysun/blog/labels/scala)
 
-# Entries
+# Posts
 
 - [2018-11-12 [updating] Paper reading Dec 2018](https://github.com/xysun/blog/issues/8)
 - [2018-10-31 Paper reading Nov 2018](https://github.com/xysun/blog/issues/7)
