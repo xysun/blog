@@ -9,6 +9,7 @@ This is my 1239723847684765th attempt at starting a blog. Let's see how it goes 
 
 # Posts
 
+- [2019-01-03 [updating] Paper reading Jan 2019](https://github.com/xysun/blog/issues/9)
 - [2018-11-12 Paper reading Dec 2018](https://github.com/xysun/blog/issues/8)
 - [2018-10-31 Paper reading Nov 2018](https://github.com/xysun/blog/issues/7)
 - [2018-10-22 Thoughts on functional programming](https://github.com/xysun/blog/issues/6)
