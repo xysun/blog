@@ -4,7 +4,7 @@ This is my 1239723847684765th attempt at starting a blog. Let's see how it goes 
 
 - [machine learning](https://github.com/xysun/blog/labels/machine%20learning)
   - [reinforcement learning](https://github.com/xysun/blog/labels/reinforcement%20learning)
-  - [My paper reading notes](https://github.com/xysun/blog/issues?q=is%3Aopen+is%3Aissue+label%3ARTFP)
+  - [paper reading notes](https://github.com/xysun/blog/issues?q=is%3Aopen+is%3Aissue+label%3ARTFP)
 - [scala and functional programming](https://github.com/xysun/blog/labels/scala)
 
 # Posts
