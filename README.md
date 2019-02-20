@@ -9,7 +9,7 @@ This is my 1239723847684765th attempt at starting a blog. Let's see how it goes 
 
 # Posts
 
-- [2019-02-16 [updating] Paper reading Feb 2019 [1]](https://github.com/xysun/blog/issues/11)
+- [2019-02-16 [updating] Paper reading Feb 2019 [2]](https://github.com/xysun/blog/issues/11)
 - [2019-02-16 Shapes of LSTM and ConvLSTM](https://github.com/xysun/blog/issues/10)
 - [2019-01-03 Paper reading Jan 2019 [3]](https://github.com/xysun/blog/issues/9)
 - [2018-11-12 Paper reading Dec 2018 [4]](https://github.com/xysun/blog/issues/8)
