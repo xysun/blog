@@ -5,11 +5,12 @@ This is my 1239723847684765th attempt at starting a blog. Let's see how it goes 
 - [machine learning](https://github.com/xysun/blog/labels/machine%20learning)
   - [reinforcement learning](https://github.com/xysun/blog/labels/reinforcement%20learning)
   - [paper reading notes](https://github.com/xysun/blog/issues?q=is%3Aopen+is%3Aissue+label%3ARTFP)
+  - [machine learning for health](https://github.com/xysun/blog/labels/machine%20learning%20for%20health)
 - [scala and functional programming](https://github.com/xysun/blog/labels/scala)
 
 # Posts
 
-- [2019-04-19 [updating] Paper reading Apr 2019 [2]](https://github.com/xysun/blog/issues/12)
+- [2019-04-19 Paper reading Apr 2019 [2]](https://github.com/xysun/blog/issues/12)
 - [2019-02-16 Paper reading Feb 2019 [2]](https://github.com/xysun/blog/issues/11)
 - [2019-02-16 Shapes of LSTM and ConvLSTM](https://github.com/xysun/blog/issues/10)
 - [2019-01-03 Paper reading Jan 2019 [3]](https://github.com/xysun/blog/issues/9)
