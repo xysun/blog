@@ -10,6 +10,7 @@ This is my 1239723847684765th attempt at starting a blog. Let's see how it goes 
 
 # Posts
 
+- [2019-09-27 Paper reading Sep 2019 [3]](https://github.com/xysun/blog/issues/16)
 - [2019-07-31 Paper reading Jul 2019 [5]](https://github.com/xysun/blog/issues/15)
 - [2019-06-30 Paper reading Jun 2019 [2]](https://github.com/xysun/blog/issues/14)
 - [2019-05-09 Paper reading May 2019 [3]](https://github.com/xysun/blog/issues/13)
